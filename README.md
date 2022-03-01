@@ -1,2 +1,2 @@
-# Homework 3
+# SSW345
 Hello Github!
