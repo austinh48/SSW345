@@ -23,4 +23,5 @@ Process:
 3. I definetly want to keep using kaban boards because they are super helpful for keeping track of what you have completed and what else you need to add to a project. It also helped us stay on track with our timeline.
 
 Overall:
+
 Learning all the different practices for designing a project is super useful because it allows us to have many differnt ways of coding, testing and implementing our projects. For future projects, there may be one method of implementation, for example, that suits that style of project than another. Also, learning how to do every part of the software development process is a very good skill to have so when I work on other projects with a group I'll have a full understanding of what is going on during each part of the project, so it will be super useful to know about all the different practices.
